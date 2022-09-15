@@ -3,6 +3,8 @@ Ingredients:
 - 1/2 onion
 - 1 lime
 - 2 tsp salt
+- 1 tsp cinnamon
+- 1 tsp garlic powder
 - jalapeno to taste
 
 Instructions:
@@ -10,5 +12,6 @@ Instructions:
 - chop onion
 - chop jalapeno
 - squeeze lime
+- add seasonings
 - add salt
 - and mix well
