@@ -1,5 +1,5 @@
 Ingredients:
-- 2 avacados
+- 3 avacados
 - 1/2 onion
 - 1 lime
 - 2 tsp salt
